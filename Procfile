@@ -1,0 +1,1 @@
+worker: python nse_bse_bot.py 
